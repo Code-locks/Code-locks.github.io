@@ -1,9 +1,9 @@
 header {width: 100%;height: 65px;background: rgb(0, 162, 232);margin:-10px -8px;position: fixed;box-shadow: 0 5px 30px #909090;}
 header p {font-size: large;color:#FFF;}
 body {
-background: rgb(32,29,78);
-background: -moz-linear-gradient(90deg, rgba(32,29,78,1) 0%, rgba(109,109,189,1) 35%, rgba(15,207,246,1) 100%);
-background: -webkit-linear-gradient(90deg, rgba(32,29,78,1) 0%, rgba(109,109,189,1) 35%, rgba(15,207,246,1) 100%);
-background: linear-gradient(90deg, rgba(32,29,78,1) 0%, rgba(109,109,189,1) 35%, rgba(15,207,246,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#201d4e",endColorstr="#0fcff6",GradientType=1);
+background: rgb(114,105,255);
+background: -moz-linear-gradient(80deg, rgba(114,105,255,1) 0%, rgba(36,59,251,1) 67%, rgba(15,207,246,1) 100%);
+background: -webkit-linear-gradient(80deg, rgba(114,105,255,1) 0%, rgba(36,59,251,1) 67%, rgba(15,207,246,1) 100%);
+background: linear-gradient(80deg, rgba(114,105,255,1) 0%, rgba(36,59,251,1) 67%, rgba(15,207,246,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#7269ff",endColorstr="#0fcff6",GradientType=1);
 }
